@@ -1,8 +1,7 @@
 <div align="center">
   <img
     alt="Profile Picture"
-    src="img/avatar-modified.png"
-    width="300px"
+    src="img/top-transparent.png"
   />
 </div>
 

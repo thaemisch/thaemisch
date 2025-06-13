@@ -46,9 +46,9 @@
 </h2>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=thaemisch&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=720&show=prs_merged_percentage&hide=stars&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaemisch&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=720&size_weight=0&count_weight=1)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thaemisch&theme=dark&hide_border=true&card_width=720)
+![](https://github-readme-stats.vercel.app/api?username=thaemisch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&card_width=720&show=prs_merged_percentage&hide=stars&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaemisch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=720&size_weight=0&count_weight=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thaemisch&theme=transparent&hide_border=true&card_width=720)
 </div>
 
 <h2 align="center">

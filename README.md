@@ -72,7 +72,7 @@
 <br/>
 
 <h2 align="center">
-  Quottes by the smartest programmer that's ever lived
+  Quotes by the smartest programmer that's ever lived
   <img align="center"
     width="25px"
     alt="RIP Terry Davis"
@@ -80,4 +80,4 @@
   />
 </h2>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/thaemisch/github-readme-quotes/blob/quotes.json)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default&quotesUrl=https://github.com/thaemisch/thaemisch/blob/main/quotes.json)

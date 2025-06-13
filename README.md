@@ -54,7 +54,7 @@
 <h2 align="center">
   Best Music to vibe to
   <img align="center"
-    width=25px"
+    width="25px"
     alt="Envelope"
     src="img/perfect.gif"
   />

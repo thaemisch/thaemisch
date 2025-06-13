@@ -68,9 +68,3 @@
     />
   <p>(Click the image)</p>
   </a>
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=thaemisch&icon=0&color=1)](https://visitcount.itsvg.in)

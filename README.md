@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4fpUWp3D1N953IgjWihZcJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <!--
 **thaemisch/thaemisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
